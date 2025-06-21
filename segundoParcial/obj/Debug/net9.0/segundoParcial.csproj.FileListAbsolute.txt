@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\bin\Debug\net9.0\segundoParcial.exe
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\bin\Debug\net9.0\segundoParcial.deps.json
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\bin\Debug\net9.0\segundoParcial.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\bin\Debug\net9.0\segundoParcial.dll
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\bin\Debug\net9.0\segundoParcial.pdb
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.dll
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\refint\segundoParcial.dll
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.pdb
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\ref\segundoParcial.dll
