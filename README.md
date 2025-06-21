@@ -55,6 +55,7 @@ Editor recomendado: Visual Studio o Visual Studio Code
 
 # Clonar el repositorio
 git clone https://github.com/usuario/comic-store.git
+
 cd comic-store
 
 # Restaurar y compilar el proyecto
