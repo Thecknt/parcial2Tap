@@ -26,7 +26,6 @@ namespace Cristian_Barreto
                 {
                     case 1:
                         Console.Clear();
-                        Console.WriteLine("**********Agregar Personaje**********");
                         service.AgregarPersonaje();
                         Console.Clear();
                         break;
