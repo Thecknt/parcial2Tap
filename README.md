@@ -1,7 +1,7 @@
 # 📘 Comic Store - Gestión de Personajes de Fantasía
 
 
-Aplicación de consola desarrollada en C# (.NET 6/7) que permite administrar personajes de un universo ficticio, como magos y guerreros, simulando un entorno de tienda de cómics o RPG.
+Aplicación de consola desarrollada en C# (.NET 9) que permite administrar personajes de un universo ficticio, como magos y guerreros, simulando un entorno de tienda de cómics o RPG.
 
 ##🧩 Funcionalidades principales
 Al iniciar la aplicación, el usuario verá el siguiente menú:
