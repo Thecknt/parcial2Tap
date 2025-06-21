@@ -12,3 +12,4 @@ C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS E
 C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.pdb
 C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.genruntimeconfig.cache
 C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\ref\segundoParcial.dll
+C:\Users\santi\OneDrive\Documentos\Facu\Tercer Cuatrimestre\TECNICAS AVANZADAS EN PROGRAMACION\2doParcial\segundoParcial\obj\Debug\net9.0\segundoParcial.sourcelink.json
