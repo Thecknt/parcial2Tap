@@ -1,4 +1,4 @@
-# 📘 Comic Store - Gestión de Personajes de Fantasía
+# 📘 Prototype Game - Gestión de Personajes de Fantasía
 
 
 Aplicación de consola desarrollada en C# (.NET 9) que permite administrar personajes de un universo ficticio, como magos y guerreros, simulando un entorno de tienda de cómics o RPG.
