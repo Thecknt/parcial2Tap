@@ -10,7 +10,7 @@ namespace Cristian_Barreto
 
             do
             {
-                Console.WriteLine("|---------Bienvenido al Comic Store--------|");
+                Console.WriteLine("|-------------Menu de Personajes-----------|");
                 Console.WriteLine("|      Seleccione una opcion del menu      |");
                 Console.WriteLine("| 1). Agregar Personaje                    |");
                 Console.WriteLine("| 2). Modificar Personaje                  |");
