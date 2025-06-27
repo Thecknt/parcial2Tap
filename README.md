@@ -6,7 +6,7 @@ Aplicación de consola desarrollada en C# (.NET 9) que permite administrar perso
 ##🧩 Funcionalidades principales
 Al iniciar la aplicación, el usuario verá el siguiente menú:
 
-![image](https://github.com/user-attachments/assets/035b1e0d-0bdd-426e-b747-a110cbec12a9)
+![image](https://github.com/user-attachments/assets/f3657154-0333-4c2f-a8ff-8f10943c9cd1)
 
 
 ## 🧙‍♂️ Agregar Personajes
